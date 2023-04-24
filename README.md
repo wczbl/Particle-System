@@ -1,2 +1,2 @@
-# Particle-System
-A simple particle system.
+# Particle System
+This simple project was made because I felt like I lacked something that wasn't game related, so I decided to whip up this simple project. There's no goal here, all I decided to do was make a simple particle system where clicking would result in changing the color. As of developing this further, there are no plans. I feel like it's perfect the way it already is. The glowing pixels in the corner are intentional.
